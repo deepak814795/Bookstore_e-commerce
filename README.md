@@ -1,6 +1,6 @@
 # Full Stack E-Commerce Project using MERN
 
-Live Link - [Bookztron](https://64acfe9e1360c149c010d1c6--rad-pastelito-4cbb81.netlify.app/)
+Live Link - [Scriptum](https://64acfe9e1360c149c010d1c6--rad-pastelito-4cbb81.netlify.app/)
 
 ## Available Scripts
 
