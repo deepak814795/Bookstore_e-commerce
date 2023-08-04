@@ -70,6 +70,9 @@ You may also see any lint errors in the console.
 ## Screenshots
 
 ### Home Page
+![Bookztron-HomePage-1](https://github.com/deepak814795/Bookstore_e-commerce/assets/91387970/d1c31ef5-523c-4ca3-8379-1589a8c37683)
+![Bookztron-HomePage-2](https://github.com/deepak814795/Bookstore_e-commerce/assets/91387970/ecc69568-0f12-4ff1-9464-344a40b9c943)
+![Bookztron-HomePage-3](https://github.com/deepak814795/Bookstore_e-commerce/assets/91387970/dea11f63-569e-4a42-9eb3-7220912e3600)
 
 
 ### Product Listing Page
