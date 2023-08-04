@@ -51,46 +51,45 @@ You may also see any lint errors in the console.
 12. Search bar to search books by Book name and Author name
 13. Pagination 
 
-## You are welcome to contribute to this project 
-1. Create a personal fork of the project on Github.
-2. Clone the fork on your local machine. Your remote repo on Github is called origin.
-3. Add the original repository as a remote called upstream.
-4. If you created your fork a while ago be sure to pull upstream changes into your local repository.
-5. Create a new branch to work on! Branch from development branch.
-6. Implement/fix your feature, comment your code.
-7. Squash your commits into a single commit with git's interactive rebase. Create a new branch if necessary.
-8. Push your branch to your fork on Github, the remote origin.
-9. From your fork open a pull request in the correct branch. Target the project's development branch.
-10. Once the pull request is approved and merged you can pull the changes from upstream to your local repo and delete your extra branch(es).
-11. And last but not least: Always write your commit messages in the present tense. Your commit message should describe what the commit, when applied, does to the code – not what you did to the code.
 
-## You can report issues on this project using Github issue 
-1. You can read more about this from [Github Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
-
-## Screenshots
+## Screenshots of Webpage Sections
 
 ### Home Page
-![Bookztron-HomePage-1](https://github.com/deepak814795/Bookstore_e-commerce/assets/91387970/d1c31ef5-523c-4ca3-8379-1589a8c37683)
-![Bookztron-HomePage-2](https://github.com/deepak814795/Bookstore_e-commerce/assets/91387970/ecc69568-0f12-4ff1-9464-344a40b9c943)
-![Bookztron-HomePage-3](https://github.com/deepak814795/Bookstore_e-commerce/assets/91387970/dea11f63-569e-4a42-9eb3-7220912e3600)
+![homepage](https://github.com/deepak814795/Bookstore_e-commerce/assets/91387970/b0dd453b-3540-41e7-951b-215866fa3dfd)
 
 
 ### Product Listing Page
-![Bookztron-ProductListingPage-1](https://github.com/deepak814795/Bookstore_e-commerce/assets/91387970/3d65e0cd-4260-45ec-8ae5-40d6176e6ade)
+![Web capture_5-8-2023_0597_64acfe9e1360c149c010d1c6--rad-pastelito-4cbb81 netlify app](https://github.com/deepak814795/Bookstore_e-commerce/assets/91387970/ec6eb196-ac08-45ca-b1c4-5f54d890f1bf)
 
 
 ### User Authentication Pages
+#### Sign Up Page
+![sign up](https://github.com/deepak814795/Bookstore_e-commerce/assets/91387970/81886c23-231c-414d-9d88-a6d79343dae5)
 
-### Single Product Page
+#### Login Page
+![login](https://github.com/deepak814795/Bookstore_e-commerce/assets/91387970/d5f70c71-4d94-4fa2-87a4-a275e8d7cc64)
+
+### Product Description Page
+![Description](https://github.com/deepak814795/Bookstore_e-commerce/assets/91387970/03ad549f-c4b6-46b0-8911-89e4b4ad91d3)
+
 
 ### Wishlist Page
+![wishlist](https://github.com/deepak814795/Bookstore_e-commerce/assets/91387970/fd08a18d-287a-4a39-bcb5-f3acd876edc4)
 
 
 ### Cart Page
-
-
-### Razorpay integration
-
+![cart](https://github.com/deepak814795/Bookstore_e-commerce/assets/91387970/da8beb56-de90-43c4-88dc-24c182dc5160)
 
 ### Orders Page
+![orders](https://github.com/deepak814795/Bookstore_e-commerce/assets/91387970/f51d7bbf-87ef-43f2-9de8-bc7573482f6c)
+
+### Razorpay integration
+#### Payment Options
+![razorpay](https://github.com/deepak814795/Bookstore_e-commerce/assets/91387970/0e558070-e976-4874-88d9-6b90ef773b52)
+#### Payment Sucessful and Order ID
+![payment_sucessful](https://github.com/deepak814795/Bookstore_e-commerce/assets/91387970/2895cf59-4bc4-4beb-9b85-27c7581426ae)
+
+## Thank You For Visiting !!!
+
+
 
